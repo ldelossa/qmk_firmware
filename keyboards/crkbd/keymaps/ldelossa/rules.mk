@@ -1,0 +1,7 @@
+RGBLIGHT_ENABLE    = no
+EXTRAFLAGS += -flto
+RGB_MATRIX_ENABLE  = yes
+MOUSEKEY_ENABLE    = no
+NKRO_ENABLE        = yes
+OLED_DRIVER_ENABLE = yes
+DEBOUNCE_TYPE      = sym_eager_pk
